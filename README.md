@@ -20,7 +20,8 @@ Select the multiplayer game you want to play: either dots or chess
 The game will start automaticall on both devices.
 
 ### Local multiplayer 
-##Select the 1v1 version of the game. You will be able to control both players.
+
+Select the 1v1 version of the game. You will be able to control both players.
 
 ### For AI (Only dots).
 
@@ -31,14 +32,14 @@ Even though it's a pretty simple AI, it is better than some I've seen on mobile 
 
 ### Issues:
 
-Chess does not have chess mate, you have to resign.
-Chess does not have the more advanced moves.
-Pawn promotion is automatic to queen
-If you don't have the devices connected always, the games may reach invalid states
+* Chess does not have chess mate, you have to resign.
+* Chess does not have the more advanced moves.
+* Pawn promotion is automatic to queen
+* If you don't have the devices connected always, the games may reach invalid states
 
 ### Improvments:
 The improvements are partially sorted by how easy they would be
-1. Add good pawn promotion
-2. Check for chessmate
-3. Currently the chess piece textures are a binary matrix, that uses a lot of memory. One solution would be to load from the SD card.
-4. Chess AI.
+* Add good pawn promotion
+* Check for chessmate
+* Currently the chess piece textures are a binary matrix, that uses a lot of memory. One solution would be to load from the SD card.
+* Chess AI.
